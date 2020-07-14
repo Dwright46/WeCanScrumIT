@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21554a9e-6a0f-4057-adf8-d6f20f4f845c" name="Default Changelist" comment="" />
+    <list default="true" id="21554a9e-6a0f-4057-adf8-d6f20f4f845c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1eeO9AeKErgpj2pgEzVwfnG4Ju7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -63,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594678437418</updated>
       <workItem from="1594678443743" duration="7201000" />
+      <workItem from="1594700762755" duration="664000" />
     </task>
     <servers />
   </component>
@@ -70,6 +73,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="28" key="#ReBicyclingApplication" timestamp="1594700782672">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="458" y="28" key="#ReBicyclingApplication/-1366.0.1366.728/1600.0.1920.1040/0.0.1600.860@0.0.1600.860" timestamp="1594700782672" />
     <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1594681269326">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
