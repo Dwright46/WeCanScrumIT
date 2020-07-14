@@ -7,4 +7,5 @@ public class Shop {
     public Long getId() {
         return null;
     }
+
 }
